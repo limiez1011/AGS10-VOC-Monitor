@@ -40,8 +40,8 @@
         "other_text_upright": false,
         "pads": {
           "drill": 0.0,
-          "height": 1.5,
-          "width": 1.5
+          "height": 1.0,
+          "width": 1.0
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -62,7 +62,7 @@
         "annular_width": "error",
         "clearance": "error",
         "connection_width": "warning",
-        "copper_edge_clearance": "error",
+        "copper_edge_clearance": "ignore",
         "copper_sliver": "warning",
         "courtyards_overlap": "error",
         "creepage": "error",
@@ -632,7 +632,7 @@
         "uuid": "f0c08069-ff98-41ba-9b6c-e1a04220307e"
       }
     ],
-    "used_designators": "#PWR11",
+    "used_designators": "",
     "variants": []
   },
   "sheets": [

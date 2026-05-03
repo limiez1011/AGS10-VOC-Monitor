@@ -3929,7 +3929,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0603_1608Metric"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 191.77 77.47 90)
 			(hide yes)
 			(show_name no)
