@@ -6,15 +6,25 @@ It uses an AGS10 TVOC sensor which samples the air every 60 seconds, when it's n
 
 ## Bill of Materials
 ### (Per PCB)
+
 1x - Seeed studios RP2040
+
 1x - AGS10 TVOC sensor
+
 1x - MCP73831 LiPo charge IC
+
 1x - 0402 100nF cap
+
 2x - 0603 4.7uF cap
+
 1x - 0603 Red LED
+
 1x - SOD-123 Schottky diode
+
 2x - 0402 4.7K R
+
 1x - 0402 2k R
+
 2x - 0402 100K R
 
 ## Photos
