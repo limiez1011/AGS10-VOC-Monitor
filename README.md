@@ -22,14 +22,10 @@ It uses an AGS10 TVOC sensor which samples the air every 60 seconds, when it's n
 | 2 | 0402 100K R | JLCPCB | 0.02 |
 | --- | --- | --- | --- |
 | TOTAL |
-| --- |
 | 24 USD (w/o mfg fees)
 | SHIPPING |
-| --- |
 | TME EU- 6.73 USD  (ESTIMATED) | JLCPCB - 11.24 USD | TOTAL - 18 USD |
-| --- | --- | --- |
 | GRAND TOTAL |
-| --- |
 | 45 USD (all extra fees included) |
 ## Photos
 <img width="2050" height="956" alt="image" src="https://github.com/user-attachments/assets/4af562a3-5cb1-4b01-9b93-99927ffcaabc" />
