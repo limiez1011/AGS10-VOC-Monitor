@@ -8,24 +8,29 @@ It uses an AGS10 TVOC sensor which samples the air every 60 seconds, when it's n
 ### (Per PCB)
 | QTY | Part | Supplier | Price |
 | --- | --- | --- | --- |
+| 1 | WAVESHARE 18321 | TME EU | 14.28 USD |
 | 1 | Seeed studios RP2040 | TME EU | 5.65 USD |
 | 1 | AGS10 TVOC sensor | JLCPCB | 1.60 USD |
-| 1 | 0402 100nF cap | JLCPCB | 0.20 USD (MOQ) |
-| 2 | 603 4.7uF cap | JLCPCB | 0.025 USD |
-
-
-2x - 0603 4.7uF cap
-
-1x - 0603 Red LED
-
-1x - SOD-123 Schottky diode
-
-2x - 0402 4.7K R
-
-1x - 0402 2k R
-
-2x - 0402 100K R
-
+| 1 | 0402 100nF cap | JLCPCB | 0.01 USD |
+| 2 | 0603 4.7uF cap | JLCPCB | 0.11 USD |
+| 1 | 0603 Red LED | JLCPCB | 0.01 USD |
+| 1 | 0402 470 R | JLCPCB | 0.08 USD |
+| 1 | MICROCHIP MCP73831T-2ATI/OT | JLCPCB | 1.2 USD |
+| 1 | SOD-123 Schottky diode | JLCPCB | 0.024 USD |
+| 2 | 0402 4.7K R | JLCPCB | 0.02 USD |
+| 1 | 0402 2k R | JLCPCB | 0.01 USD |
+| 2 | 0402 100K R | JLCPCB | 0.02 |
+| --- | --- | --- | --- |
+| TOTAL |
+| --- |
+| 24 USD (w/o mfg fees)
+| SHIPPING |
+| --- |
+| TME EU- 6.73 USD  (ESTIMATED) | JLCPCB - 11.24 USD | TOTAL - 18 USD |
+| --- | --- | --- |
+| GRAND TOTAL |
+| --- |
+| 45 USD (all extra fees included) |
 ## Photos
 <img width="2050" height="956" alt="image" src="https://github.com/user-attachments/assets/4af562a3-5cb1-4b01-9b93-99927ffcaabc" />
 <img width="1901" height="923" alt="image" src="https://github.com/user-attachments/assets/e25fbd65-b662-4ea6-8552-4feafca930a6" />
