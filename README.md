@@ -6,14 +6,13 @@ It uses an AGS10 TVOC sensor which samples the air every 60 seconds, when it's n
 
 ## Bill of Materials
 ### (Per PCB)
+| QTY | Part | Supplier | Price |
+| --- | --- | --- | --- |
+| 1 | Seeed studios RP2040 | TME EU | 5.65 USD |
+| 1 | AGS10 TVOC sensor | JLCPCB | 1.60 USD |
+| 1 | 0402 100nF cap | JLCPCB | 0.20 USD (MOQ) |
+| 2 | 603 4.7uF cap | JLCPCB | 0.025 USD |
 
-1x - Seeed studios RP2040
-
-1x - AGS10 TVOC sensor
-
-1x - MCP73831 LiPo charge IC
-
-1x - 0402 100nF cap
 
 2x - 0603 4.7uF cap
 
