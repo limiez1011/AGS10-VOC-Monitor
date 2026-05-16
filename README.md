@@ -12,9 +12,9 @@ It uses an AGS10 TVOC sensor which samples the air every 60 seconds, when it's n
 |Passives                   |Caps,Resistors,Diodes|22      |1.00            |                                                                                                                                                                 |JLCPCB     |
 |MICROCHIP MCP73831T-2ATI/OT|lipo charger         |2       |2.40            |                                                                                                                                                                 |JLCPCB     |
 |AGS10                      |VOC sensor           |2       |3.20            |                                                                                                                                                                 |JLCPCB     |
-|SEEED rp2040               |MCU                  |2       |11.30           |https://www.tme.eu/ro/details/seeed-102010428/kituri-de-dezvoltare-altele/seeed-studio/xiao-rp2040/                                                              |TME EU     |
+|SEEED rp2040               |MCU                  |2       |11.30           |[link](https://www.tme.eu/ro/details/seeed-102010428/kituri-de-dezvoltare-altele/seeed-studio/xiao-rp2040/)                                                              |TME EU     |
 |PCB                        |PCBA                 |5       |17.00           |                                                                                                                                                                 |JLCPCB     |
-|Waveshare 18321            |eink display         |1       |14.28           |https://www.tme.eu/ro/details/wsh-18321/hartie-electronica/waveshare/18321/?brutto=1&currency=RON&utm_content=&campaign_id=10591401989&gad_campaignid=10591401989|TME EU     |
+|Waveshare 18321            |eink display         |1       |14.28           |[link](https://www.tme.eu/ro/details/wsh-18321/hartie-electronica/waveshare/18321/?brutto=1&currency=RON&utm_content=&campaign_id=10591401989&gad_campaignid=10591401989)|TME EU     |
 
 
 ## Photos
