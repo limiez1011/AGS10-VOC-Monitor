@@ -6,7 +6,7 @@ Battery-powered indoor air quality monitor that reads VOC every 60 seconds and d
 It uses an AGS10 TVOC sensor which samples the air every 60 seconds, when it's not sampling it goes into a sleep mode where the resistive heater turns off, the PCB includes an MCP73831 which charges LiPo batteries at 0.5A which is perfect for a 500mAh or 800mAh LiPo (1C/0.625C charge rate) The MCU is the seeed studios RP2040 which has a trace going from BATT+ to an ADC pin with a voltage divider so that we can know when to charge the batteries. The sample is then displayed on a 2.66in E-ink which is also updated every 60 seconds, It displays voltage and ppb.
 
 ## Bill of Materials
-### (Per PCB)
+### (2 PCBS)
 |Name                       |Purpose              |Quantity|Total Cost (USD)|Link                                                                                                                                                             |Distributor|
 |---------------------------|---------------------|--------|----------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------|
 |Passives                   |Caps,Resistors,Diodes|22      |1.00            |                                                                                                                                                                 |JLCPCB     |
