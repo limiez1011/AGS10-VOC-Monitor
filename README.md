@@ -1,3 +1,4 @@
+[air quality monitor-bom.csv](https://github.com/user-attachments/files/27851702/air.quality.monitor-bom.csv)
 # AGS10-VOC-Monitor
 Battery-powered indoor air quality monitor that reads VOC every 60 seconds and displays it on an e-ink screen.
 
@@ -6,27 +7,14 @@ It uses an AGS10 TVOC sensor which samples the air every 60 seconds, when it's n
 
 ## Bill of Materials
 ### (Per PCB)
-| QTY | Part | Supplier | Price |
-| --- | --- | --- | --- |
-| 1 | WAVESHARE 18321 | TME EU | 14.28 USD |
-| 1 | Seeed studios RP2040 | TME EU | 5.65 USD |
-| 1 | AGS10 TVOC sensor | JLCPCB | 1.60 USD |
-| 1 | 0402 100nF cap | JLCPCB | 0.01 USD |
-| 2 | 0603 4.7uF cap | JLCPCB | 0.11 USD |
-| 1 | 0603 Red LED | JLCPCB | 0.01 USD |
-| 1 | 0402 470 R | JLCPCB | 0.08 USD |
-| 1 | MICROCHIP MCP73831T-2ATI/OT | JLCPCB | 1.2 USD |
-| 1 | SOD-123 Schottky diode | JLCPCB | 0.024 USD |
-| 2 | 0402 4.7K R | JLCPCB | 0.02 USD |
-| 1 | 0402 2k R | JLCPCB | 0.01 USD |
-| 2 | 0402 100K R | JLCPCB | 0.02 |
-| --- | --- | --- | --- |
-| TOTAL |
-| 24 USD (w/o mfg fees)
-| SHIPPING |
-| TME EU- 6.73 USD  (ESTIMATED) | JLCPCB - 11.24 USD | TOTAL - 18 USD |
-| GRAND TOTAL |
-| 45 USD (all extra fees included) |
+[UpName,Purpose,Quantity,Total Cost (USD),Link,Distributor
+"Passives","Caps,Resistors,Diodes",22,1.00,"","JLCPCB"
+"MICROCHIP MCP73831T-2ATI/OT","lipo charger",2,2.40,"","JLCPCB"
+"AGS10","VOC sensor",2,3.20,"","JLCPCB"
+"SEEED rp2040","MCU",2,11.30,"https://www.tme.eu/ro/details/seeed-102010428/kituri-de-dezvoltare-altele/seeed-studio/xiao-rp2040/","TME EU"
+"PCB","PCBA",5,17.00,"","JLCPCB"
+"Waveshare 18321","eink display",1,14.28,"https://www.tme.eu/ro/details/wsh-18321/hartie-electronica/waveshare/18321/?brutto=1&currency=RON&utm_content=&campaign_id=10591401989&gad_campaignid=10591401989","TME EU"loading air quality monitor-bom.csv…]()
+
 ## Photos
 <img width="2050" height="956" alt="image" src="https://github.com/user-attachments/assets/4af562a3-5cb1-4b01-9b93-99927ffcaabc" />
 <img width="1901" height="923" alt="image" src="https://github.com/user-attachments/assets/e25fbd65-b662-4ea6-8552-4feafca930a6" />
