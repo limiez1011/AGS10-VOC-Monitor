@@ -9,14 +9,12 @@ It uses an AGS10 TVOC sensor which samples the air every 60 seconds, when it's n
 ### (2 PCBS)
 |Name                       |Purpose              |Quantity|Total Cost (USD)|Link                                                                                                                                                             |Distributor|
 |---------------------------|---------------------|--------|----------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------|
-|Passives                   |Caps,Resistors,Diodes|22      |1.00            |[link](https://jlcpcb.com/parts)                                                                                                                                         |JLCPCB     |
-|MICROCHIP MCP73831T-2ATI/OT|lipo charger         |2       |2.40            |[link](https://jlcpcb.com/partdetail/MicrochipTech-MCP73831T_2ATIOT/C14879)                                                                                              |JLCPCB     |
-|AGS10                      |VOC sensor           |2       |3.20            |[link](https://jlcpcb.com/partdetail/AGS10/C3012632)                                                                                                                     |JLCPCB     |
-|SEEED rp2040               |MCU                  |2       |11.30           |[link](https://www.tme.eu/ro/details/seeed-102010428/kituri-de-dezvoltare-altele/seeed-studio/xiao-rp2040/)                                                              |TME EU     |
-|PCB                        |PCBA                 |5       |17.00           |[link](https://jlcpcb.com/pcb-assembly)                                                                                                                                  |JLCPCB     |
-|Waveshare 18321            |eink display         |1       |14.28           |[link](https://www.tme.eu/ro/details/wsh-18321/hartie-electronica/waveshare/18321)|TME EU     |
-
-
+|Passives                   |Caps,Resistors,Diodes|22      |1.00            | [link](https://jlcpcb.com/parts)                                                                                                                                         |JLCPCB     |
+|MICROCHIP MCP73831T-2ATI/OT|lipo charger         |2       |2.40            | [link](https://jlcpcb.com/partdetail/MicrochipTech-MCP73831T_2ATIOT/C14879)                                                                                              |JLCPCB     |
+|AGS10                      |VOC sensor           |2       |3.20            | [link](https://jlcpcb.com/partdetail/AGS10/C3012632)                                                                                                                     |JLCPCB     |
+|SEEED rp2040               |MCU                  |2       |11.30           | [link](https://www.tme.eu/ro/details/seeed-102010428/kituri-de-dezvoltare-altele/seeed-studio/xiao-rp2040/)                                                              |TME EU     |
+|PCB                        |PCBA                 |5       |17.00           | [link](https://jlcpcb.com/pcb-assembly)                                                                                                                                  |JLCPCB     |
+|Waveshare 18321            |eink display         |1       |14.28           | [link](https://www.tme.eu/ro/details/wsh-18321/hartie-electronica/waveshare/18321)|TME EU     |
 
 ## Photos
 <img width="2050" height="956" alt="image" src="https://github.com/user-attachments/assets/4af562a3-5cb1-4b01-9b93-99927ffcaabc" />
