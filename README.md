@@ -21,6 +21,8 @@ It uses an AGS10 TVOC sensor which samples the air every 60 seconds, when it's n
 <img width="1901" height="923" alt="image" src="https://github.com/user-attachments/assets/e25fbd65-b662-4ea6-8552-4feafca930a6" />
 <img width="2304" height="1266" alt="image" src="https://github.com/user-attachments/assets/c658586a-8af2-46a7-ad77-4008fa935f88" />
 <img width="2300" height="1276" alt="image" src="https://github.com/user-attachments/assets/61f893d8-0ab9-4455-a7bc-1e6732e7a9af" />
+<img width="1960" height="1130" alt="image" src="https://github.com/user-attachments/assets/5f1a23fb-bd71-4683-b151-0ae0a77ea216" />
+
 
 
 
