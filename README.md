@@ -1,4 +1,3 @@
-<img width="4080" height="3060" alt="1000068133" src="https://github.com/user-attachments/assets/19981183-618d-476e-a172-a89b5c4868ef" />
 [air quality monitor-bom.csv](https://github.com/user-attachments/files/27851702/air.quality.monitor-bom.csv)
 # AGS10-VOC-Monitor
 Battery-powered indoor air quality monitor that reads VOC every 60 seconds and displays it on an e-ink screen.
@@ -29,8 +28,7 @@ It uses an AGS10 TVOC sensor which samples the air every 60 seconds, when it's n
 <img width="3060" height="4080" alt="1000068132" src="https://github.com/user-attachments/assets/dbcf7085-2471-46b3-bdd4-91c5692da084" />
 <img width="2296" height="4080" alt="1000068139" src="https://github.com/user-attachments/assets/4ec712d3-53f4-4f2a-a27e-f8436ddef1f8" />
 <img width="3060" height="4080" alt="1000068131" src="https://github.com/user-attachments/assets/dff1af87-9056-48c6-9dba-5f7307dfb4b9" />
-
-
+<img width="4080" height="3060" alt="1000068133" src="https://github.com/user-attachments/assets/19981183-618d-476e-a172-a89b5c4868ef" />
 
 
 
