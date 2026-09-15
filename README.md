@@ -24,15 +24,20 @@ It uses an AGS10 TVOC sensor which samples the air every 60 seconds, when it's n
 <img width="1960" height="1130" alt="image" src="https://github.com/user-attachments/assets/5f1a23fb-bd71-4683-b151-0ae0a77ea216" />
 
 ## Build photos
-<img width="2296" height="4080" alt="1000068140" src="https://github.com/user-attachments/assets/030cdfde-bdba-4c4f-9872-05a193f44a7b" />
+
 <img width="3060" height="4080" alt="1000068132" src="https://github.com/user-attachments/assets/dbcf7085-2471-46b3-bdd4-91c5692da084" />
 <img width="2296" height="4080" alt="1000068139" src="https://github.com/user-attachments/assets/4ec712d3-53f4-4f2a-a27e-f8436ddef1f8" />
 <img width="3060" height="4080" alt="1000068131" src="https://github.com/user-attachments/assets/dff1af87-9056-48c6-9dba-5f7307dfb4b9" />
 <img width="4080" height="3060" alt="1000068133" src="https://github.com/user-attachments/assets/19981183-618d-476e-a172-a89b5c4868ef" />
 
+## Build Instructions
 
-
-
-
+- Create PCB jig
+- Apply solder paste using stencil
+- place components
+- add to hotplate to melt solder
+- solder mcu + eink
+- flash firmware by pressing boot and adding the firmware file to the root directory
+  and thats all.
 
 
